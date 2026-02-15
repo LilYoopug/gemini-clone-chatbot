@@ -2,7 +2,7 @@
 
 A beautiful Gemini-style AI chatbot clone built with Node.js, Express, and Google's Gemini AI API. Features a modern, responsive UI with multi-turn conversation support, file attachments, and conversation history.
 
-![Gemini Clone Screenshot](https://i.imgur.com/placeholder.png)
+![Gemini Clone Screenshot](screenshots/gemini-clone-ui.png)
 
 ## Features
 
@@ -120,11 +120,13 @@ gemini-clone-chatbot/
 ├── .env                  # Environment variables (not in git)
 ├── .env.example          # Example environment file
 ├── .gitignore           # Git ignore rules
+├── README.md            # This file
 ├── public/              # Static frontend files
 │   ├── index.html       # Main HTML page
 │   ├── style.css        # Stylesheet
 │   └── script.js        # Frontend JavaScript
-└── README.md            # This file
+└── screenshots/         # UI screenshots
+    └── gemini-clone-ui.png
 ```
 
 ## API Endpoints
