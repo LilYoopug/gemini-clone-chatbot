@@ -1,0 +1,13 @@
+{
+  "managedProcesses": {
+    "gemini-chatbot": {
+      "name": "gemini-chatbot",
+      "script": "node",
+      "cwd": "/home/Tubagus/biji/gemini-chatbot-api",
+      "args": [
+        "server.js"
+      ]
+    }
+  },
+  "lastSynced": "2026-02-15T15:57:30.563Z"
+}
